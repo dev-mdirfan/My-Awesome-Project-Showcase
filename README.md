@@ -1,4 +1,6 @@
 # My Awesome Project Showcase
+![Licence](https://img.shields.io/github/license/dev-mdirfan/My-Awesome-Project-Showcase?style=plastic)
+
 All project list and tutorials repositories.
 
 ## Machine Learning
